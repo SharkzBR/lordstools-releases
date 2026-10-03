@@ -6,6 +6,6 @@
   "mandatory": true,
   "download_url": "https://github.com/SharkzBR/lordstools-releases/releases/download/v1.0.2/LordsTools.exe",
   "file_size": 170628390,
-  "sha256": "d7c90e41359cd1796d755edaec516c4233c946438e0415f6e0ecdd831af85600",
+  "sha256": "c0a977715f24401734d2c8e8956235a01ce1fd38fb3792d6c270c3de019178e6",
   "release_notes": "Release v1.0.2 - Validacao do fluxo de atualizacao automatica"
 }
