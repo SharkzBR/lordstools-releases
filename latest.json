@@ -1,11 +1,11 @@
 {
   "update_available": true,
-  "version": "1.0.1",
-  "latest_version": "1.0.1",
+  "version": "1.0.2",
+  "latest_version": "1.0.2",
   "min_supported_version": "1.0.0",
   "mandatory": true,
-  "download_url": "https://github.com/SharkzBR/lordstools-releases/releases/download/v1.0.1/LordsTools.exe",
+  "download_url": "https://github.com/SharkzBR/lordstools-releases/releases/download/v1.0.2/LordsTools.exe",
   "file_size": 170628390,
-  "sha256": "70ebe70c97e2b77e022a5add36aea2815a213040be3b1f3f07d67b669d6ab3aa",
-  "release_notes": "Auto-update test release v1.0.1 with resilient updater and version fix."
+  "sha256": "d7c90e41359cd1796d755edaec516c4233c946438e0415f6e0ecdd831af85600",
+  "release_notes": "Release v1.0.2 - Validacao do fluxo de atualizacao automatica"
 }
