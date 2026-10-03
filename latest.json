@@ -5,7 +5,7 @@
   "min_supported_version": "1.0.0",
   "mandatory": true,
   "download_url": "https://github.com/SharkzBR/lordstools-releases/releases/download/v1.0.1/LordsTools.exe",
-  "file_size": 170616102,
-  "sha256": "45b7b733a346f6c9cc26504dac787ea45a0370fdbfac991643d0b5c12d15da46",
-  "release_notes": "Auto-update test release v1.0.1"
+  "file_size": 170628390,
+  "sha256": "70ebe70c97e2b77e022a5add36aea2815a213040be3b1f3f07d67b669d6ab3aa",
+  "release_notes": "Auto-update test release v1.0.1 with resilient updater and version fix."
 }
